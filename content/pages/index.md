@@ -17,6 +17,10 @@ sections:
         url: /store
         arrow: true
         style: primary
+      - title: lorem-ipsum
+        url: '#'
+        style: primary
+        arrow: false
   - type: testimonials_section
     section_id: testimonials_section
     title: Testimonials
