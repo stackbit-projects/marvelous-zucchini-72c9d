@@ -16,7 +16,7 @@ sections:
       - title: See all items
         url: /store
         arrow: true
-        style: link
+        style: primary
   - type: testimonials_section
     section_id: testimonials_section
     title: Testimonials
